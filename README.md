@@ -6,11 +6,14 @@
 
 A web application specifically designed to provide you fun.
 
+## 📌Screenshot
+<img src="src\Components\Screenshot.PNG" alt="memegenerator">
+
 
 ## 👉 Features
 
 - Random Memes
-
+- Download Memes
 
 ## 🔑 License
 
