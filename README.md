@@ -14,4 +14,4 @@ A web application specifically designed to provide you fun.
 
 ## 🔑 License
 
-- [MIT](https://github.com/msaaddev/COVID-19/blob/master/LICENSE
+- [MIT]
